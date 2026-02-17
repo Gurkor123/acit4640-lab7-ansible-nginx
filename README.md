@@ -1,10 +1,5 @@
 # ACIT 4640 Lab 7 – Ansible Nginx Deployment
 
-## Group Members
-
-- Jean Venter
-- Allison Chen
-- Joanne Xie
 
 ## Overview
 
