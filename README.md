@@ -1,5 +1,11 @@
 # ACIT 4640 Lab 7 – Ansible Nginx Deployment
 
+## Group Members
+
+- Jean Venter
+- Allison Chen
+- Joanne Xie
+
 ## Overview
 
 This lab uses Terraform to provision two AWS EC2 instances and Ansible to install and configure nginx on both servers. Ansible copies the nginx configuration file, creates the required web directory, deploys a templated index.html file, and reloads and enables the nginx service.
